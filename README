@@ -1,0 +1,5 @@
+# this file reads nagios statusfile.xml 
+# can be used to generate data into a custom host overview page
+# read only data
+# Author: Marcos Lopez - 2007 
+
